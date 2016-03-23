@@ -8,4 +8,9 @@ Now I continue and I have a problem...
 
 I fix the second problem
 
+func 2 {... ok ...}
+func 3 {... ok ...}
+func 4 {... ok ...}
+func 5 {}
+
 end project
